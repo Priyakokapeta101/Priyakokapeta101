@@ -1,5 +1,5 @@
 # Hey, I'm Priya
-### Technical Product Manager · CS Engineer · AI Builder · Creative
+### Technical Product Manager · CS Engineer · AI Builder
 
 I started as a software engineer, fell in love with building products, 
 and never looked back. Today I sit at the intersection of product strategy, 
@@ -16,16 +16,6 @@ An AI-powered CAD Design Software
 I'm working on multiple projects across AI, product, and design 
 and I'll be sharing all of them here as they take shape.
 2026 is going to be a big year. Stay tuned.
-
----
-
-## What I bring to the table
-
-- **Technical PM** With a CS & IT engineering degree and real engineering experience
-- **AI product specialist** — From concept through launch on AI/ML, 3D, and AR products
-- **Data & cloud fluency** — AWS, Palantir Foundry, GCP, Azure, Databricks
-- **Full SDLC ownership** — Discovery, PRDs, roadmaps, sprints, launch, iteration
-- **I build, not just plan** — HTML, CSS, JavaScript, Python, SQL, REST APIs
 
 ---
 
@@ -56,7 +46,7 @@ as beautiful as it is functional. Creativity and technology, together.
 ---
 
 ## Career Arc
-Software Engineer → Technical PM → AI Product Manager → Builder
+Software Engineer → Technical PM → AI Product Manager 
 
 ---
 
