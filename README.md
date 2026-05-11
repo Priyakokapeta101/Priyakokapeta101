@@ -9,14 +9,11 @@ AI and engineering and I actually build the things I spec out.
 
 ## What I'm building right now
 
-### Jewelry CAD Platform *(in progress)*
-An AI-powered platform that eliminates the communication gap between 
-customers, sales staff, CAD designers, and jewelers.
-Translating a customer's jewelry vision into an accurate, 
-CAD-ready brief — no lost-in-translation moments, no expensive mistakes.
+### Atelier AI *(in progress)*
+An AI-powered CAD Design Software 
 
 ### More exciting projects coming soon
-I'm working on multiple projects across AI, product, and design —
+I'm working on multiple projects across AI, product, and design 
 and I'll be sharing all of them here as they take shape.
 2026 is going to be a big year. Stay tuned.
 
