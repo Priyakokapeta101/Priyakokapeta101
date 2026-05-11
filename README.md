@@ -9,7 +9,7 @@ AI, and engineering and I actually build the things I spec out.
 
 ## What I'm building right now
 
-### 💍 Jewelry CAD Platform *(in progress)*
+### Jewelry CAD Platform *(in progress)*
 An AI-powered platform that eliminates the communication gap between 
 customers, sales staff, CAD designers, and jewelers.
 Translating a customer's jewelry vision into an accurate, 
