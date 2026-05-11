@@ -1,9 +1,9 @@
-# Hey, I'm Priya 👋
-### Technical Product Manager · CS Engineer · AI Builder
+# Hey, I'm Priya
+### Technical Product Manager · CS Engineer · AI Builder · Creative
 
 I started as a software engineer, fell in love with building products, 
 and never looked back. Today I sit at the intersection of product strategy, 
-AI, and engineering and I actually build the things I spec out.
+AI and engineering and I actually build the things I spec out.
 
 ---
 
@@ -15,15 +15,32 @@ customers, sales staff, CAD designers, and jewelers.
 Translating a customer's jewelry vision into an accurate, 
 CAD-ready brief — no lost-in-translation moments, no expensive mistakes.
 
+### More exciting projects coming soon
+I'm working on multiple projects across AI, product, and design —
+and I'll be sharing all of them here as they take shape.
+2026 is going to be a big year. Stay tuned.
+
 ---
 
 ## What I bring to the table
 
-- **Technical PM** with a CS & IT engineering degree and real engineering experience
-- **AI product specialist** — from concept through launch on AI/ML, 3D, and AR products
+- **Technical PM** With a CS & IT engineering degree and real engineering experience
+- **AI product specialist** — From concept through launch on AI/ML, 3D, and AR products
 - **Data & cloud fluency** — AWS, Palantir Foundry, GCP, Azure, Databricks
-- **Full SDLC ownership** — discovery, PRDs, roadmaps, sprints, launch, iteration
+- **Full SDLC ownership** — Discovery, PRDs, roadmaps, sprints, launch, iteration
 - **I build, not just plan** — HTML, CSS, JavaScript, Python, SQL, REST APIs
+
+---
+
+## The creative side
+
+Not many people know this, but before I was deep in product and tech,
+I was doing graphic design in college, billboard designs, visual branding works.
+That  foundation never left me.
+
+My goal for 2026 is to bring that side back in full force
+expect design-forward projects, thoughtful UIs, and work that's 
+as beautiful as it is functional. Creativity and technology, together.
 
 ---
 
@@ -43,21 +60,20 @@ CAD-ready brief — no lost-in-translation moments, no expensive mistakes.
 
 ## Career Arc
 Software Engineer → Technical PM → AI Product Manager → Builder
-Robotech · Cognizant · Accenture · Maven Solutions · Blue Moon Software
 
 ---
 
 ## What drives me
 
 I believe the best product managers are the ones who can build.
-Not because you need to write all the code 
+Not because you need to write all the code —
 but because when you understand how things work,
 you make better decisions, earn your team's trust,
 and ship things that actually matter.
 
 ---
 
-## Austin, TX · Open to collaborating on AI products
+Austin, TX · Open to collaboration
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-kokapeta/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyakokapetaofficial@gmail.com)
