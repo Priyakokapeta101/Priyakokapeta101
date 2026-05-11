@@ -41,13 +41,13 @@ CAD-ready brief — no lost-in-translation moments, no expensive mistakes.
 
 ---
 
-## 📌 Career Arc
+## Career Arc
 Software Engineer → Technical PM → AI Product Manager → Builder
 Robotech · Cognizant · Accenture · Maven Solutions · Blue Moon Software
 
 ---
 
-## 🎯 What drives me
+## What drives me
 
 I believe the best product managers are the ones who can build.
 Not because you need to write all the code 
@@ -57,7 +57,7 @@ and ship things that actually matter.
 
 ---
 
-## 📍 Austin, TX · Open to collaborating on AI products
+## Austin, TX · Open to collaborating on AI products
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-kokapeta/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyakokapetaofficial@gmail.com)
